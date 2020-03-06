@@ -1,0 +1,15 @@
+---
+:api_settings:
+  :endpoint: "https://api.mspbackups.com/api"
+  :username: "XxXxXxXxXxXxXxX"
+  :password: "XxXxXxXxXxXxXxX"
+
+:telegram_settings:
+  :bot_key: 'XxXxXxX:XxXxXxXxXxXxXxXXxXxXxXxXxXxXxX'
+  :chat_id: 'XxXxXxXxX'
+
+:general_settings:
+  :ignored_plantypes:
+    - 4
+  :overdue_thresh: 48
+
