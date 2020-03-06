@@ -2,7 +2,7 @@
 
 ## What This Does
 
-Throw this script in your crontab and get easy-to-understand reports from CloudBerry/MSP360 about all of your backups. No need to log into mspbackup.com and manually check your backups like an animal anymore.
+Throw this script in your crontab and get easy-to-understand reports from CloudBerry/MSP360 about all of your backups. No need to log into mspbackups.com and manually check your backups like an animal anymore.
 You'll know what backup plans failed, what succeeded, and what needs attention (warning). Reports are sent to a Telegram group of your choosing (you need to make a Telegram bot first)
 
 ## Example Output
